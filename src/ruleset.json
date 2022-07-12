@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "action":{
+            "type":"redirect",
+            "redirect":{
+                "transform":{
+                    "queryTransform":{
+                        "addOrReplaceParams":[
+                            {
+                                "key":"useskin",
+                                "value":"vector"
+                            }
+                        ]
+                    }
+                }
+            }
+        },
+        "condition":{
+            "urlFilter":"wikipedia.org",
+            "resourceTypes":[
+                "main_frame"
+            ]
+        }
+    }
+]
