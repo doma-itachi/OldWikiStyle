@@ -1,5 +1,5 @@
 # OldWikiStyle
-Readme (English, <a href="https://github.com/doma-itachi/Youtube-shorts-block/blob/master/readme_ja.md" target="_blank">日本語版</a>)
+Readme (English, <a href="https://github.com/doma-itachi/OldWikiStyle/blob/master/readme-ja.md" target="_blank">日本語版</a>)
 
 This is an extension that reverts Wikipedia to the old layout
 

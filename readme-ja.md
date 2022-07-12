@@ -1,4 +1,6 @@
 # OldWikiStyle
+Readme (<a href="https://github.com/doma-itachi/OldWikiStyle" target="_blank">English</a>, 日本語版)  
+
 Wikipediaを旧レイアウトに戻す拡張機能です
 
 ## 概要
