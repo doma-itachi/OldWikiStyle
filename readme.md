@@ -8,7 +8,7 @@ This is an extension that reverts from the new Wikipedia layout to the old layou
 It works with Chrome (or Chromium-based browsers)
 
 ## Installation
-- For Chrome(or other chromium based browsers)
+- [For Chrome(or other chromium based browsers)](https://chrome.google.com/webstore/detail/oldwikistyle/gejekhdkoecjahdppiopimcelcmibgan)
 
 ## Author
 土間いたち @itachi_yukari  
